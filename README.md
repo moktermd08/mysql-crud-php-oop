@@ -1,3 +1,5 @@
+**MySQL extension is deprecated as of PHP 5.5 and has been removed as of PHP 7.0. It is recommended to use either MySQLi or PDO instead.**
+
 **To use this class with MySQLi please find it <a href="https://github.com/rorystandley/MySQLi-CRUD-PHP-OOP">here</a>**
 
 A simple PHP Class for using with MySQL create, read, update and delete functions. Using OOP this class can easily be added to to enhance existing functions or create more.
